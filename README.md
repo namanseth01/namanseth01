@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naman Seth</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namanseth01&label=Profile%20views&color=0e75b6&style=flat" alt="mayank190821" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=namanseth01&label=Profile%20views&color=0e75b6&style=flat" alt="namanseth01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanseth01" alt="mayank190821" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanseth01" alt="namanseth01" /></a> </p>
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
